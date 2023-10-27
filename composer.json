@@ -1,0 +1,21 @@
+{
+    "name": "aeforge/terminal",
+    "description": "AEForge terminal component. Providing a way to communicate with PHP application via a console.",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Aeforge\\Terminal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AEForge"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "minimum-stability": "stable"
+}
